@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"name": "Root",
+			"path": "./"
+		},
+		{
+			"name": "Public",
+			"path": "./public"
+		}
+	],
+	"settings":
+	{
+		"tab_size": 4
+	}
+}
