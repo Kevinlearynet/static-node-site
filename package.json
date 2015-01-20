@@ -1,7 +1,11 @@
 {
 	"name": "coastalteaco.com",
 	"version": "1.0.0",
-	"description": "",
+	"description": "Extremely simple static HTML site powered by Node.js",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:Kevinlearynet/static-node-site.git"
+	},
 	"main": "app.js",
 	"private": true,
 	"dependencies": {
